@@ -1,37 +1,47 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Dylan Rangel 👋
 
-### Data & AI Engineer | Estudiante de Ingeniería en Sistemas
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20%26%20AI%20Engineer&fontSize=40&animation=fadeIn" alt="Header" />
+</p>
 
-Me apasiona transformar grandes volúmenes de datos en decisiones estratégicas. Mi enfoque principal es la arquitectura de datos en la nube y el desarrollo de modelos de Machine Learning para resolver problemas reales.
+### Systems Engineering Student @ ULATINA
+
+Me apasiona transformar grandes volúmenes de datos en decisiones estratégicas mediante arquitectura cloud y modelos de Machine Learning.
 
 ---
 
-## 🚀 Sobre mí
-- 🎓 Estudiante de último año de Ingeniería en Sistemas (Graduación: Dic 2026).
-- ☁️ Especializado en optimización de arquitecturas en **Google Cloud Platform**.
-- 🛠️ Experiencia rediseñando pipelines de datos para mejorar rendimiento y reducir costos significativamente.
-- 🌱 Actualmente mejorando mi dominio del inglés y explorando nuevas herramientas de IA.
-
 ## 🛠️ Stack Tecnológico
-- **Cloud & DB:** Google Cloud Platform (BigQuery), Dataform, DuckDB, SQL (Avanzado).
-- **Lenguajes & Librerías:** Python (Pandas, Scikit-learn), Java.
-- **Machine Learning:** XGBoost, Feature Engineering, Clasificación y Regresión.
-- **BI & Visualización:** Looker, Streamlit, Power BI.
 
-## 📈 Proyectos Destacados
-### [Financial Data Pipeline (Yahoo Finance)](link-al-repo)
-- **Arquitectura Medallón:** Pipeline end-to-end con capas Bronze, Silver y Gold.
-- **Tech:** DuckDB + Streamlit + XGBoost para predicción de movimientos de activos.
+### Cloud & Data Engineering
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF2?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### [Detección de Abuso Vehicular con ML](link-al-repo)
-- Desarrollo de un modelo de clasificación utilizando XGBoost y BigQuery para identificar patrones de riesgo.
+### Programación & ML
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit —%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+---
+
+## 📈 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radial&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+* **[Financial Data Pipeline (Yahoo Finance)](link-al-repo):** Pipeline end-to-end (DuckDB + Streamlit).
+* **[Detección de Abuso Vehicular con ML](link-al-repo):** Modelo predictivo con XGBoost.
 
 ---
 
 ## 📫 Contacto
-- **LinkedIn:** [Tu Perfil](link)
-- **Email:** [Tu correo]
-- **Ubicación:** Alajuela, Costa Rica
+📌 **Ubicación:** Costa Rica  
+💬 **Intereses:** Novelas de fantasía, Thrillers y Videojuegos 🎮
 
----
-*“In data we trust, but we verify with SQL.”*
+<p align="right">
+  <i>"In data we trust, but we verify with SQL."</i>
+</p>
