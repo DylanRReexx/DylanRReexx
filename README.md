@@ -97,12 +97,13 @@ Production ML API with **97% accuracy** on heart disease prediction. Three exper
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanRReexx&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800&title_color=2EA043&icon_color=2EA043" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanRReexx&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&title_color=2EA043" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DylanRReexx&bg_color=0d1117&color=2EA043&line=2EA043&point=2EA043&area=true&hide_border=true&theme=react-dark" width="100%" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DylanRReexx&theme=dark&hide_border=true&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=DylanRReexx&theme=dark&hide_border=true&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&v=2" width="100%" />
 </div>
 
 ---
