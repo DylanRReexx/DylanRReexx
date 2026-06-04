@@ -15,7 +15,7 @@
 
 ## 🦖 About Me
 
-Systems Engineering student at Universidad Latina de Costa Rica (graduating December 2026), with professional experience as a Data & AI Engineer delivering solutions for enterprise clients including **INS, BAC, and Movistar**.
+Systems Engineering student at Universidad Latina de Costa Rica (graduating December 2026), with professional experience as a Data & AI Engineer delivering solutions for enterprise clients including **INS, BAC, Qualitas, Claro, and Movistar**.
 
 I specialize in end-to-end data pipelines, BigQuery optimization, and ML deployment. I am currently focused on **Data Engineering** — specifically orchestration, cloud data warehouses, and scalable pipeline architecture — and actively seeking a professional internship to complete my degree requirements.
 
